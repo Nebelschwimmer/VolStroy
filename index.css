@@ -205,14 +205,14 @@ main {
 }
 .section__activity__img__svg {
   position: absolute;
-  bottom: 95px;
-  left: 120px;
+  bottom: 80px;
+  left: 100px;
   max-height: 100px;
   width: 120px;
 }
 .section__activity__item__title {
   position: absolute;
-  bottom: 25px;
+  bottom: 15px;
   left: 0;
   height: -moz-fit-content;
   height: fit-content;
